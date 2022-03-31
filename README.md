@@ -8,4 +8,6 @@ Color_Picker.py - This program was used to pick the HSV values for detecting the
 
 # Sample Output
 The demo video is present in the following link: https://drive.google.com/file/d/1sOV1kA1cZZeWxnT_tVnE510mgceEIsp7/view?usp=sharing
+
+Image from the demo:
 ![image](https://user-images.githubusercontent.com/26566698/161143412-a829b63a-7c43-4153-ab8e-f05a113f810e.png)
